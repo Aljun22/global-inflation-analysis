@@ -54,13 +54,14 @@ Case studies: Philippines and United States
 ## 📊 Key Visualizations  
 
 ### 🌐 Global Inflation Trend  
-<img src="images5/inflation_trend.png" alt="inflation_trend" width="600"/>  
+<img src="Images5/inflation_trend.png" alt="inflation_trend" width="600"/>  
 
 ### 🔥 Inflation Outliers & Hyperinflation  
-<img src="images5/inflation_outliers.png" alt="Inflation Outliers" width="600"/>  
+<img src="Images5/heatmap.png" alt="correlation_heatmap" width="600"/>  
+<img src="Images5/distribution.png" alt="distribution" width="600"/>
 
 ### 📉 Forecasting: Philippines vs U.S.  
-<img src="images5/forecast_ph_us.png" alt="Forecast PH vs US" width="600"/>  
+<img src="Images5/PH_US_comparison.png" alt=" PH vs US" width="600"/>  
 
 
 📈 Key Insights
